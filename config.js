@@ -1,0 +1,1 @@
+module.exports.secretKey = 's0&3$fn2wqf'
